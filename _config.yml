@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+title: Guille
+description: >
+  Guille's humble blog.
+copyright: Guille 2018
+sass:
+  sass_dir: assets/sass
+url: http://localhost:4000
+disqus_shortname:
+facebook_username:
+twitter_username: "guillermolopez"
+linkedin_username: "guillermolopezo"
+instagram_username: "guille._.11"
+pinterest_username:
+flickr_username:
+github_username:  "guillelo11"
+feed_icon: rss
+email:
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
