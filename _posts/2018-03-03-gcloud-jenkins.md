@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Google Container Registry + Jenkins'
+title: 'Google Container Registry and Jenkins'
 categories: Docker
 excerpt: 'I recently had to deal with the task of experimenting with automating the build and push of the Docker images, using Jenkins, to my company's Google Cloud based container registry.'
 ---
